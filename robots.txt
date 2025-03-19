@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://djinn96.github.io/al-folio/sitemap.xml
+Sitemap: https://Djinn96.github.io/sitemap.xml
