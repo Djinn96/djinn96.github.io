@@ -156,11 +156,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-agriculture-of-malaysia",
-          title: 'Agriculture of Malaysia',
-          description: "A simple dashboard of Malaysia&#39;s agriculture sector from 2017 to 2022.",
+          section: "News",},{id: "projects-flower-power",
+          title: 'Flower Power',
+          description: "Agricultural Output of Malaysia from 2017 to 2022.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/agriculture_of_malaysia/";
+              window.location.href = "/projects/flower_power/";
             },},{id: "projects-malaysia-by-elevation",
           title: 'Malaysia by Elevation',
           description: "Shaded Relief Map of Malaysia",
